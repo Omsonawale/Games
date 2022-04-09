@@ -35,4 +35,5 @@ while count<6:
     if count==6:
         print("      You Try 6 Times") 
         print("******** GAME OVER ********") 
+        print("Actual Guess Number Is :",guess_number)
         
